@@ -13,7 +13,7 @@ RUN set -x && \
                   ca-certificates \
                   expect \
                   libxml2-utils \
-                  g++-multilib \
+                  g++-10-multilib \
                   ldap-utils \
                   python3 \
                   python3-ldap \
