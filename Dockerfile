@@ -13,7 +13,7 @@ RUN set -x && \
                   ca-certificates \
                   expect \
                   libxml2-utils \
-                  apt-get install g++-multilib \
+                  g++-multilib \
                   ldap-utils \
                   python3 \
                   python3-ldap \
